@@ -202,4 +202,9 @@ public class WGPortListener implements EventSource {
 			listener.handle(event);
 		}
 	}
+
+	@Override
+	public void removeListener(int i) {
+
+	}
 }

@@ -423,6 +423,6 @@ public class CardUtil {
 		});
 //
 //
-		Thread.sleep(8*10*1000);
+//		Thread.sleep(8*10*1000);
 	}
 }

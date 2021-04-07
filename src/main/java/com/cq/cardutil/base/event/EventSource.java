@@ -15,4 +15,6 @@ public interface EventSource {
      * 通知监听器
      */
     void notifyListener(Event event);
+
+    void removeListener(int i);
 }
